@@ -73,3 +73,13 @@ Issuer & Audience validation is enabled.
   "Issuer": "RealEstateApi",
   "Audience": "RealEstateClient"
 }
+
+### Code Dependencies
+
+| Tool | Version |
+|----|--------|
+| .NET SDK | 8.x |
+| SQL Server | 2019+ |
+| Visual Studio 2022 | 2019+ |
+
+Replace the connection string and then run the project
